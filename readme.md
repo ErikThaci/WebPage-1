@@ -1,2 +1,3 @@
-#Hapat e para jan kry :
-Lidhja permes gitHUB
+#Hapat:
+1.Lidhja permes gitHUB
+2.
