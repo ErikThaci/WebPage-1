@@ -1,2 +1,2 @@
-Hapat e para jan kry :
+#Hapat e para jan kry :
 Lidhja permes gitHUB
