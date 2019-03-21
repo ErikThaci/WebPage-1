@@ -1,0 +1,26 @@
+
+Web titullu Protech.com
+
+layout edhe style -- later i disutojm 
+
++homepage{
+	-New deals ose zbritjet e produkteve 
+	-odertat
+	-zbukurime
+
+	+pages
+		-about us
+		-Kategorit e produkteve
+		-nje veq per servisime
+		-...
+
+	(Nese mujna me ba edhe log in)
+			qe me na u hap mundsi 
+			-me mbajt naj evidenc tshfrytzuesve
+			-me kriju lloj piksh qe i fitojn 
+				gjat konsumimit tprodukteve tona
+			-...
+
+			
+
+}
