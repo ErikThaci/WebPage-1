@@ -1,11 +1,18 @@
 
 Web titullu Protech.com
 
+	Krijimi i nje Web faqeje per shitjen e disa pajisjeve lektrike dixhiatale,
+siq jane orat e menqura , telefonet dhe kompjuteret(pc , llaptop , server ), po
+ashtu te ofrojn mundsin qe shfrytzuesit te gjejn shefbimin e servisit per pajisjet
+e tyre , mund te jet servisi i kompani tone apo servise tjera qe paguajn per ekspozimin
+qe ua mundsojn kundrejt klientve.
+
 layout edhe style -- later i disutojm 
 
 +homepage{
 	-New deals ose zbritjet e produkteve 
-	-odertat
+	-ofertat
+	-sistemi i porosis 
 	-zbukurime
 
 	+pages
